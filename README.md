@@ -9,6 +9,6 @@ npm install
 Depois, rode o arquivo:
 
 ```bash
-node blockchain.js
+node src/blockchain.js
 ```
 
